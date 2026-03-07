@@ -5,7 +5,7 @@
 
 ---
 歡迎聯絡我：
-- [個人網站]([https://lonieget.github.io/](https://lonieget.github.io/PersonalWebsite/))
+- [個人網站](https://lonieget.github.io/PersonalWebsite/)
 - [LinkedIn](https://www.linkedin.com/in/%E5%AE%87%E7%BF%94-%E9%84%AD-2876403b5/)
 - [Email：lonie6229@gmail.com](https://mail.google.com/mail/u/0/?to=lonie6229@gmail.com&fs=1&tf=cm)
 
